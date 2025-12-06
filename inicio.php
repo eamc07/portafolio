@@ -32,7 +32,7 @@ $proyectos = $obj_conexion->consuta("SELECT * FROM `proyectos`");
                     <p>
                         Swap the background-color utility and add a `.text-*` color
                         utility to mix up the jumbotron look. Then, mix and match with
-                        additional component themes and more.
+                        additional component themes and more Hola papu.
                     </p>
                     <button class="btn btn-outline-primary" type="button">
                         Mas info
