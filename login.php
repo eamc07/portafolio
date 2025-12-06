@@ -47,7 +47,7 @@
                             Clave:
                             <input type="password" class="form-control" name="clave" id="">
                             <br>
-                            <button type="submit" class="btn btn-success">Ingresar</button>
+                            <button type="submit" class="btn btn-success">Ingresaaaaaaaaaar</button>
                         </form>
                     </div>
                     <div class="card-footer text-muted"></div>
