@@ -38,7 +38,7 @@
 
             <div class="col-md-4">
                 <div class="card">
-                    <div class="card-header">Inicio de Sesion</div>
+                    <div class="card-header">Inicio de Sesiooooooooooon</div>
                     <div class="card-body">
                         <form action="login.php" method="post">
                             Nombre:
