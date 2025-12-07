@@ -30,7 +30,7 @@ $proyectos = $obj_conexion->consuta("SELECT * FROM `proyectos`");
                 <div class="h-100 p-5 text-white bg-primary border rounded-3">
                     <h2>Bienvenido al Portafolio</h2>
                     <p>
-                        Hola como estas desde dev.
+                        Hola como estas desde dev2.
                     </p>
                     <button class="btn btn-outline-primary" type="button">
                         Mas info
